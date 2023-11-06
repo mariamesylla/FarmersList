@@ -1,4 +1,5 @@
 // Import Classes Here
+const Product = require('./classes/Product');
 
 
 
